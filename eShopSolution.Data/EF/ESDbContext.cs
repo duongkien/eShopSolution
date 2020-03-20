@@ -1,4 +1,5 @@
 ﻿
+using eShopSolution.Data.Configurations;
 using eShopSolution.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
